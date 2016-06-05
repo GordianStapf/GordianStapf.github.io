@@ -1,2 +1,3 @@
-	name: Monitoring der Stuttgarter Brücke
-	markdown: kramdown
+name: Monitoring der Stuttgarter Brücke
+markdown: kramdown
+permalink: /blog/:title
